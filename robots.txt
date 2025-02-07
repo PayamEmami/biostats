@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://biostats.se/sitemap-index.xml
+Sitemap: https://payamemami.github.io/sitemap-index.xml
