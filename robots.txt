@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://biostats.se/sitemap-index.xml
+Sitemap: https://biostats.se/sitemap-index.xml
